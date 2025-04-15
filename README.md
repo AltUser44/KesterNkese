@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I love turning cool project ideas into real, working web apps.**
 
-<h3 align="left">Connect with me:</h3>                             
+<h3 align="left">Connect with me:</h3>                                                                    ![Image](https://github.com/user-attachments/assets/9eb56a0d-0202-4c13-add6-e85d5afe50fe)                   
 <p align="left">
 <a href="https://linkedin.com/in/kester nkese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kester nkese" height="30" width="40" /></a>
 </p>
