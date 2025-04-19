@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Bron](https://bron.digital)
 
-- 🌱 I’m currently learning **Golang, TypeScript, C++, and improving API design & database management.**
+- 🌱 I’m currently learning **Golang, C++, and improving API design & database management.**
 
 - 👯 I’m looking to collaborate on **Fullstack projects that use React, Next.js, or Node.js**
 
